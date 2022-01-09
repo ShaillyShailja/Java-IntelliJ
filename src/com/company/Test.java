@@ -1,4 +1,4 @@
-// Static variables are called using class names.
+// Static variables are called using class names or instances.
 // Non-static variables are called using objects.
 //Static blocks cannot be used to initialise non-static variables.
 
